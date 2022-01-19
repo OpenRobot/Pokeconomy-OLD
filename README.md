@@ -1,2 +1,2 @@
 # Pokeconomy
-A discord economy bot that has Pokémon!
+A Discord economy bot that has Pokémon!

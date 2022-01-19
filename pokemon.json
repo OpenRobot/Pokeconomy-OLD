@@ -1,0 +1,211 @@
+{
+    "Bulbasaur": {
+        "id": 1, 
+        "type": ["grass", "poison"], 
+        "entry": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+        "value": 1000
+    },
+    "Ivysaur": {
+        "id": 2,
+        "type": ["grass", "poison"],
+        "entry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "value": 2000
+    },
+    "Venusaur": {
+        "id": 3,
+        "type": ["grass","poison"],
+        "entry": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+        "value": 3000
+    },
+    "Charmander": {
+        "id": 4, 
+        "type": ["fire"], 
+        "entry": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+        "value": 1000
+    },
+    "Charmeleon": {
+        "id": 5,
+        "type": ["fire"],
+        "entry": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+        "value": 2000
+    },
+    "Charizard": {
+        "id": 6,
+        "type": ["fire","flying"],
+        "entry": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "value": 3000
+    },
+    "Squirtle": {
+        "id": 7, 
+        "type": ["water"], 
+        "entry": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+        "value": 1000    
+    },
+    "Wartortle": {
+        "id": 8,
+        "type": ["water"],
+        "entry": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+        "value": 2000
+    },
+    "Blastoise": {
+        "id": 9,
+        "type": ["water"],
+        "entry": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+        "value": 3000
+    },
+    "Caterpie": {
+        "id": 10,
+        "type": ["bug"],
+        "entry": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+        "value": 1000
+    },
+    "Metapod": {
+        "id": 11,
+        "type": ["bug"],
+        "entry": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+        "value": 1500
+    },
+    "Butterfree": {
+        "id": 12,
+        "type": ["bug", "flying"],
+        "entry": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+        "value": 2000
+    },
+    "Weedle": {
+        "id": 13,
+        "type": ["bug", "poison"],
+        "entry": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+        "value": 1000
+    },
+    "Kakuna": {
+        "id": 14,
+        "type": ["bug", "poison"],
+        "entry": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+    },
+    "Beedrill": {
+        "id": 15,
+        "type": ["bug", "poison"],
+        "entry": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+        "value": 2000
+    },
+    "Pidgey": {
+        "id": 16,
+        "type": ["normal", "flying"],
+        "entry": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+        "value": 1000
+    },
+    "Pidgeotto": {
+        "id": 17,
+        "type": ["normal", "flying"],
+        "entry": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+        "value": 1500
+    },
+    "Pidgeot": {
+        "id": 18,
+        "type": ["normal", "flying"],
+        "entry": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+        "value": 2000
+    },
+    "Rattata": {
+        "id": 19,
+        "type": ["normal"],
+        "entry": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+        "value": 1000
+    },
+    "Raticate": {
+        "id": 20,
+        "type": ["normal"],
+        "entry": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+        "value": 1500
+    },
+    "Spearow": {
+        "id": 21,
+        "type": ["normal", "flying"],
+        "entry": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+        "value": 1000
+    },
+    "Fearow": {
+        "id": 22,
+        "type": ["normal", "flying"],
+        "entry": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+        "value": 1500
+    },
+    "Ekans": {
+        "id": 23,
+        "type": ["poison"],
+        "entry": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+        "value": 1000
+    },
+    "Arbok": {
+        "id": 24,
+        "type": ["poison"],
+        "entry": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+        "value": 1500
+    },
+    "Pikachu": {
+        "id": 25,
+        "type": ["electric"],
+        "entry": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+        "value": 1500
+    },
+    "Raichu": {
+        "id": 26,
+        "type": ["electric"],
+        "entry": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+        "value": 2000
+    },
+    "Sandshrew": {
+        "id": 27,
+        "type": ["ground"],
+        "entry": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
+        "value": 1000
+    },
+    "Sandslash": {
+        "id": 28,
+        "type": ["ground"],
+        "entry": "The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.",
+        "value": 1500
+    },
+    "Nidoran♀": {
+        "id": 29,
+        "type": ["poison"],
+        "entry": "Females are more sensitive to smells than males. While foraging, they’ll use their whiskers to check wind direction and stay downwind of predators.",
+        "value": 1000
+    },
+    "Nidorina": {
+        "id": 30,
+        "type": ["poison"],
+        "entry": "The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.",
+        "value": 1500
+    },
+    "Nidoqueen": {
+        "id": 31,
+        "type": ["poison", "ground"],
+        "entry": "Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",
+        "value": 3000
+    },
+    "Nidoran♂": {
+        "id": 32,
+        "type": ["poison"],
+        "entry": "The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
+        "value": 1000
+    },
+    "Nidorino": {
+        "id": 33,
+        "type": ["poison"],
+        "entry": "With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",
+        "value": 1500
+    },
+    "Nidoking": {
+        "id": 34,
+        "type": ["poison", "ground"],
+        "entry": "When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down.",
+        "value": 3000
+    },
+    "": {
+        "id": 35,
+        "type": [],
+        "entry": "",
+        "value": 1
+    }
+}
